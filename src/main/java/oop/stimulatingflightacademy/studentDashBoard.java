@@ -1,6 +1,6 @@
 package oop.stimulatingflightacademy;
 
-public class examinationOfficerController
+public class studentDashBoard
 {
     @javafx.fxml.FXML
     public void initialize() {
